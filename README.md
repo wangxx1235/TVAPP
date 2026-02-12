@@ -158,6 +158,8 @@
  https://raw.githubusercontent.com/chitue/dongliTV/main/api.json	# 东篱线路
  https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/config	# 嗷呜线路
  https://android.lushunming.qzz.io/json/index.json	# L佬线路
+ https://gitee.com/cpu-iy/iy/raw/master/%E5%A4%A9%E7%A5%9EIY.json	# 天神IY
+ https://pastebin.com/raw/gtbKvnE1	# 苹果CMS资源站
 
 多仓：
  https://www.iyouhun.com/tv/dc   # 游魂多仓
@@ -177,6 +179,7 @@
  https://www.iyouhun.com/tv/zb		# 游魂直播源
  https://live.zbds.top/tv/iptv4.txt  # 直播电视IPV4
  https://3043.kstore.space/bhvip/bhzb.txt # 宝盒直播
+ ttps://develop202.github.io/migu_video/interface.txt # 咪咕IPTV
  https://raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.txt   # 潇洒AI直播
  https://raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.m3u   # 潇洒AI直播
  https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u   # IPTV 默认源
