@@ -34,7 +34,7 @@
 | 咪咕爱唱                | v9.9.012    | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/K歌/咪咕爱唱_9.9.012.apk) | 🟢    | VIP版，登录即是连续包月会员                                  |
 | 家庭KTV                 | v1.16       | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/K歌/家庭ktv1.1.6_最新版.apk) | 🟢    | 部分机型扫码点歌提示软件未启动                               |
 | 想唱就唱修复版          | v2.15.63    | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/K%E6%AD%8C/%E6%83%B3%E5%94%B1%E5%B0%B1%E5%94%B1%E4%BF%AE%E5%A4%8D%E7%89%88v2.15.63.apk) | 🟢    | 手机/TV通用，解锁会员版、支持扫码点歌，汇集70w+首歌曲，可在线更新曲库，全是 HD 高画质，支持语音助手 |
-| 金音KTV·金尊专享会员版  | v3.15.64 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/K歌/金音 3.15.64.240124125.apk) | 🟢    | 手机/TV通用，解锁会员版、支持扫码点歌，汇集70w+首歌曲，可在线更新曲库，全是 HD 高画质，支持语音助手 |
+| 金音KTV·金尊专享会员版  | v3.15.64 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/K歌/金音3.15.64.240124125.apk) | 🟢    | 手机/TV通用，解锁会员版、支持扫码点歌，汇集70w+首歌曲，可在线更新曲库，全是 HD 高画质，支持语音助手 |
 | 爱唱KTV会员版           | v2.16.58    | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/K歌/爱唱KTV-v2.16.58会员版.apk) | 🟢    | 手机/TV通用，解锁会员版、支持扫码点歌，汇集70w+首歌曲，可在线更新曲库，全是 HD 高画质，支持语音助手 |
 | 智能K歌解锁VIP版        | v2.17.48 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/K歌/智能K歌_2.17.48.2505081546_V2修复版.apk) | 🟢    | 手机/TV通用，解锁会员版、支持扫码点歌，汇集70w+首歌曲，可在线更新曲库，全是 HD 高画质，支持语音助手 |
 | 智享K歌                 | v2.16.58    | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/K歌/智享K歌_2.16.58.2411111420.apk) | 🟢    | 手机/TV通用，解锁会员版、支持扫码点歌，汇集70w+首歌曲，可在线更新曲库，全是 HD 高画质，支持语音助手 |
